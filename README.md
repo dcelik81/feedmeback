@@ -1,4 +1,4 @@
-# FeedMeBack
+<h1 align="center">FeedMeBack</h1>
 
 This is a monorepo for "FeedMeBack" project, a feedback, feature request, comments, votes and more platform for developers, designers and more.
 
