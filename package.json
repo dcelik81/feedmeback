@@ -1,0 +1,18 @@
+{
+  "name": "feedmeback",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "pnpm --filter \"./apps/**\" --parallel dev",
+    "build": "pnpm --filter \"./apps/**\" build"
+  },
+  "license": "ISC",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.8.1",
+      "onFail": "download"
+    }
+  },
+  "packageManager": "pnpm@12.8.1",
+  "type": "module"
+}
